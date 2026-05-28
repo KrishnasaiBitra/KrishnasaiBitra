@@ -39,17 +39,6 @@ Currently started learning DSA and improving problem-solving skills.
 
 ---
 
-### 🏆 GitHub Highlights
-
-<p align="left">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=KrishnasaiBitra&theme=darkhub&no-frame=true&no-bg=true&margin-w=8"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
 ### 🧠 LeetCode Stats
 
 <p align="left">
