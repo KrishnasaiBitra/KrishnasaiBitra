@@ -28,17 +28,6 @@ Currently started learning DSA and improving problem-solving skills.
 
 ---
 
-### 📈 Contribution Activity
-
-<p align="left">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=KrishnasaiBitra&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
----
-
 ### 🧠 LeetCode Stats
 
 <p align="left">
