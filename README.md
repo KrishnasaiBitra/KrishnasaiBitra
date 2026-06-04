@@ -13,14 +13,16 @@ Currently started learning DSA and improving problem-solving skills.
   <tr>
     <td>
       <img
-        src="https://awesome-github-stats.azurewebsites.net/user-stats/KrishnasaiBitra?cardType=github&theme=github-dark&fontFamily=Inter&preferLogin=false&Background=0D1117&hide_border=true"
+        src="https://awesome-github-stats.azurewebsites.net/user-stats/KrishnasaiBitra?cardType=github&theme=github-dark&show_icons=true&preferLogin=true&background=0D1117&border=0D1117&text=FFFFFF&title=FFFFFF&icon=58A6FF&ring=58A6FF"
         height="180"
+        alt="GitHub stats card"
       />
     </td>
     <td>
       <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnasaiBitra&theme=github-dark-blue&hide_border=true"
+        src="https://streak-stats.demolab.com/?user=KrishnasaiBitra&theme=dark&hide_border=true"
         height="180"
+        alt="GitHub streak stats"
       />
     </td>
   </tr>
