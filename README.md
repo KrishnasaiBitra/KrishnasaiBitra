@@ -13,7 +13,7 @@ Currently started learning DSA and improving problem-solving skills.
   <tr>
     <td>
       <img
-        src="https://awesome-github-stats.azurewebsites.net/user-stats/KrishnasaiBitra?cardType=github&theme=github-dark&show_icons=true&preferLogin=true&background=0D1117&border=0D1117&text=FFFFFF&title=FFFFFF&icon=58A6FF&ring=58A6FF"
+        src="https://github-readme-stats.vercel.app/api?username=KrishnasaiBitra&show_icons=true&theme=github_dark&bg_color=0D1117&border_color=0D1117&text_color=FFFFFF&icon_color=58A6FF&hide_border=true&count_private=true"
         height="180"
         alt="GitHub stats card"
       />
