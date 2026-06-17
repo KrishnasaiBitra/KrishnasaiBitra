@@ -35,7 +35,7 @@ Currently started learning DSA and improving problem-solving skills.
 
 <p align="left">
   <img
-    src="https://leetcard.jacoblin.cool/krishnasai-bitra?theme=dark&font=Inter&ext=heatmap"
+    src="https://leetcard.jacoblin.cool/Krishnasai-Bitra?theme=dark&font=Inter&ext=heatmap"
     alt="LeetCode Stats"
   />
 </p>
